@@ -1,6 +1,6 @@
 # TODO List
 
-https://github.com/soqyew/TODO-List/blob/main/todo_list.png?raw=true
+(https://github.com/soqyew/TODO-List/blob/main/todo_list.png?raw=true)
 
 ## Available Scripts
 
