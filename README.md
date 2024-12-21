@@ -1,6 +1,6 @@
 # TODO List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://github.com/soqyew/TODO-List/blob/main/todo_list.png?raw=true
 
 ## Available Scripts
 
